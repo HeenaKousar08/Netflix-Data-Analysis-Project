@@ -1,21 +1,82 @@
-# Netflix-Data-Analysis-Project
-Netflix EDA and Machine Learning Project
+# 🎬 Netflix Data Analysis and Prediction using Machine Learning
 
-## 📊 Overview
-This project analyzes Netflix content data using EDA and Machine Learning.
+## 📌 Project Overview
+This project focuses on analyzing Netflix dataset and building machine learning models to predict IMDb scores.
 
-## 🔧 Tools Used
+---
+
+## 📊 Project Type
+End-to-End Data Science Project (EDA + Machine Learning)
+
+---
+
+## ❗ Problem Statement
+To analyze Netflix data and predict IMDb scores based on features like genre, runtime, and popularity.
+
+---
+
+## 🔍 Workflow
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Feature Engineering
+6. Model Building
+7. Model Evaluation
+8. Hyperparameter Tuning
+
+---
+
+## 🤖 Machine Learning Models Used
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
+---
+
+## ⚙️ Hyperparameter Optimization
+- GridSearchCV was used to improve model performance
+
+---
+
+## 📈 Evaluation Metrics
+- R² Score
+- Mean Squared Error (MSE)
+
+---
+
+## 🏆 Results
+- Random Forest performed best
+- Achieved higher R² score and lower error
+
+---
+
+## 🚀 Tools & Technologies
 - Python
 - Pandas
-- Seaborn
+- NumPy
+- Matplotlib / Seaborn
 - Scikit-learn
 
-## 📈 Features
-- Data Cleaning
-- Visualization (20+ Charts)
-- Machine Learning Model
+---
 
-## 🎯 Results
-- Identified content trends
-- Built predictive model
-- Derived business insights
+## 📂 Project Structure
+Netflix_Project/
+│
+├── Netflix_EDA.ipynb
+├── Netflix_ML.ipynb
+├── dataset.csv
+├── README.md
+
+
+---
+
+## 🔮 Future Scope
+- Implement XGBoost
+- Build recommendation system
+- Deploy model using Streamlit/Flask
+
+---
+
+## 👩‍💻 Author
+Heena Kousar
