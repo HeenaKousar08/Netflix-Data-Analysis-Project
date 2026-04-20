@@ -6,7 +6,7 @@ This project focuses on analyzing Netflix dataset and building machine learning 
 ---
 
 ## 📊 Project Type
-End-to-End Data Science Project (EDA + Machine Learning)
+End-to-End Data Science Project (Machine Learning)
 
 ---
 
@@ -63,7 +63,6 @@ To analyze Netflix data and predict IMDb scores based on features like genre, ru
 ## 📂 Project Structure
 Netflix_Project/
 │
-├── Netflix_EDA.ipynb
 ├── Netflix_ML.ipynb
 ├── dataset.csv
 ├── README.md
